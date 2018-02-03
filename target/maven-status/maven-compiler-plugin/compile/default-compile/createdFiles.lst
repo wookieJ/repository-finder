@@ -1,0 +1,3 @@
+pl\allegro\controllers\HomeController.class
+pl\allegro\model\RepositoryList.class
+pl\allegro\utils\RepositoryServiceUtil.class
