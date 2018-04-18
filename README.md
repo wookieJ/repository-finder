@@ -1,2 +1,2 @@
-# repositoryFinder
-Aplikacja służąca do wyświetlania ostatnio modyfikowanego repozytorium na wskazanym profilu github.
+# repository-finder
+Application used for display the last modified repository on the specified github profile.
